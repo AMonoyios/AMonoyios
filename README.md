@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I am Andreas Monoyios👋
 
-<!--
-**AMonoyios/AMonoyios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Graduated from Uclan (University of central Lancashire) with focus on games development. Had the opportunity to expirience or work on a professional level with Unity3D, Blender and TLEngine while in university. Enjoying using C#, C++, javascript and even HLSL, python, CSS and HTML. Always open to small game challenges 😄
+
+## Projects
+
+- 🔭 I’m currently working on a Space Shooter challenge (Currently private)
+
+<img
+  src="https://github.com/AMonoyios/AMonoyios/blob/main/SpaceShooterIcon.png"
+  width = "128">
+
+- 📁 Cubic2 is currently the paused project, give it a look [Here](https://github.com/AMonoyios/Cubic2)
