@@ -23,4 +23,4 @@ Graduated from Uclan (University of central Lancashire) with focus on games deve
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMonoyios&layout=compact&theme=dark)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=51942e67-e929-4073-990c-17dd36d286f7&theme=dark)
+![AMonoyios's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AMonoyios&theme=dark)
