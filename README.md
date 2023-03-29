@@ -11,7 +11,8 @@ Graduated from Uclan (University of central Lancashire) with focus on games deve
 ## 📚 Projects
 
 - I’m currently working on a Space Shooter challenge (Currently private 🔐)
-- Cubic2 is currently on pause but please give it a look!
+- Cubic2 is currently on pause but please give it a look! <br/>
+
 [![Cubic2](https://github-readme-stats.vercel.app/api/pin/?username=AMonoyios&repo=Cubic2&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/AMonoyios/github-readme-stats)
 
 ---
