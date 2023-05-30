@@ -10,6 +10,6 @@ Graduated from Uclan (University of central Lancashire) with focus on games deve
 
 ## 📚 Projects
 
-- I’m currently working on Cubic2, a minecraft like project. Please give it a look [here](https://github.com/AMonoyios/Cubic2)!
-- Hotwheels database app is currently on hold but please give it a look [here](https://github.com/AMonoyios/HWDB)!
-- Space Shooter challenge is completed but due to reasons currently it will remain private (Currently private 🔐)
+- I’m currently collaborating to improve the Hotwheels  database app, due to still being in development the repository will remain private (Currently private 🔐)
+- Cubic2, a minecraft like project. Currently is undergoing major re-planning. Please give it a look [here](https://github.com/AMonoyios/Cubic2)!
+- Space Shooter challenge is completed. Take a look at it [here](https://github.com/AMonoyios/SpaceShooter)!
